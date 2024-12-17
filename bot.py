@@ -28,7 +28,7 @@ def display_banner():
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝         ╚═╝  ╚═╝╚══════╝ ╚═════╝
                                                                                 
 ====================================================
-     BOT                : Humanity Daily 
+     BOT                : Hivera Minning 
      Telegram Channel   : @airdropasc
      Telegram Group     : @autosultan_group
 ====================================================
