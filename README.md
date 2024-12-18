@@ -50,17 +50,14 @@ To run the script, you'll need to get a token from the Major bot. Follow these s
    - Click on the three dots in the top right corner of the Major bot chat.
    - Select **"Developer Tools"** from the menu that appears.
 
-4. **Open the Application Tab**:
+4. **Open the Network Tab**:
    - In Developer Tools, go to the **"Application"** tab.
 
-5. **Find Session Storage**:
-   - In the left-hand panel, locate and click on **"Session Storage"**.
-   - Choose the URL that includes `hivera`.
+5. **Copy like this pict**
+   >Only copy after `auth_data`
+   
+   ![image](https://github.com/user-attachments/assets/8eb877f0-69a6-42f4-a146-2db7d0dee77a)
 
-6. **Locate `query_id` or `user`**:
-   - Look for an entry containing `query_id` or `user`.
-   - Copy the value of `query_id` or `user`
+6. **Done**
+   Paste what you copied into the `data.txt` file
 
-7. **Save the Token**:
-   - Paste the `query_id` or `user` value into a file named `data.txt`.
-   - Save the file as `data.txt`.
