@@ -51,7 +51,7 @@ To run the script, you'll need to get a token from the Major bot. Follow these s
    - Select **"Developer Tools"** from the menu that appears.
 
 4. **Open the Network Tab**:
-   - In Developer Tools, go to the **"Application"** tab.
+   - In Developer Tools, go to the **"Network"** tab.
 
 5. **Copy like this pict**
    >Only copy after `auth_data`
